@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\ecsite"/>
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\Servers"/>
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\WebProj"/>
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\Phone"/>
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\HelloJSP"/>
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\Iphone"/>
+			<item value="C:\Users\internousdev\Desktop\workspace\workspace-kato\backup\template"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
