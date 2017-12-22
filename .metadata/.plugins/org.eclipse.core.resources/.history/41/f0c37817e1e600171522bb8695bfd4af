@@ -32,7 +32,7 @@ public Map<String,Object> session;
  */
 
 public String execute(){
-	String result=SUCCESS;
+	String rsult=SUCCESS;
 	session.put("count",count);
 	int intCount=Integer.parseInt(session.get("count").toString());
 	int intPrice=Integer.parseInt(session.get("buyItem_price").toString());

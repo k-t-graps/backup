@@ -14,7 +14,7 @@ public String getItemPrice(){
 	return itemPrice;
 }
 
-public void setItemPrice(String itemPrice){
+public void stItemPrice(String itemPrice){
 	this.itemPrice=itemPrice;
 }
 public int getId(){

@@ -6,7 +6,7 @@ public String itemPrice;
 public String getItemName(){
 	return itemName;
 }
-public void setItemName(String itemName){
+public void setItmName(String itemName){
 	this.itemName=itemName;
 
 }
@@ -14,7 +14,7 @@ public String getItemPrice(){
 	return itemPrice;
 }
 
-public void setItemPrice(String itemPrice){
+public void stItemPrice(String itmPrice){
 	this.itemPrice=itemPrice;
 }
 public int getId(){
